@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\bin\Debug\net6.0\Recepti.Services.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\bin\Debug\net6.0\Recepti.Services.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\bin\Debug\net6.0\Recepti.Services.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.csproj.AssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\ref\Recepti.Services.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\Recepti.Services.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services\obj\Debug\net6.0\refint\Recepti.Services.dll

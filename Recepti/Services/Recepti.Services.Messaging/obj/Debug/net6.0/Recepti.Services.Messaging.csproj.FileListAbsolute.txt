@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\bin\Debug\net6.0\Recepti.Services.Messaging.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\bin\Debug\net6.0\Recepti.Services.Messaging.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\bin\Debug\net6.0\Recepti.Services.Messaging.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.csproj.AssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\ref\Recepti.Services.Messaging.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\Recepti.Services.Messaging.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Messaging\obj\Debug\net6.0\refint\Recepti.Services.Messaging.dll

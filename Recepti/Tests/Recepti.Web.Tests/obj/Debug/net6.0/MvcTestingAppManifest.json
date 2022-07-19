@@ -1,0 +1,13 @@
+{
+  "Recepti.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common",
+  "Recepti.Data.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common",
+  "Recepti.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data",
+  "Recepti.Data.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models",
+  "Recepti.Services.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data",
+  "Recepti.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services",
+  "Recepti.Services.Mapping, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping",
+  "Recepti.Services.Messaging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging",
+  "Recepti.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web",
+  "Recepti.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure",
+  "Recepti.Web.ViewModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels"
+}

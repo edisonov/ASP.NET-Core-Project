@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\bin\Debug\net6.0\Recepti.Common.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\bin\Debug\net6.0\Recepti.Common.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\bin\Debug\net6.0\Recepti.Common.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\ref\Recepti.Common.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\Recepti.Common.csproj.AssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Recepti.Common\obj\Debug\net6.0\refint\Recepti.Common.dll

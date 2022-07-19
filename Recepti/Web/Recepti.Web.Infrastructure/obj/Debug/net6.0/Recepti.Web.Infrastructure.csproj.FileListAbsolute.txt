@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\bin\Debug\net6.0\Recepti.Web.Infrastructure.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\bin\Debug\net6.0\Recepti.Web.Infrastructure.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\bin\Debug\net6.0\Recepti.Web.Infrastructure.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\ref\Recepti.Web.Infrastructure.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\Recepti.Web.Infrastructure.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web.Infrastructure\obj\Debug\net6.0\refint\Recepti.Web.Infrastructure.dll

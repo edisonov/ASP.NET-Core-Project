@@ -24,7 +24,15 @@
         {
         }
 
-        public DbSet<Setting> Settings { get; set; }
+        public DbSet<Recipe> Recipes { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Image> Images { get; set; }
+
+        public DbSet<Ingredient> Ingrediens { get; set; }
+
+        public DbSet<RecipeIngredient> RecipeIngrediens { get; set; }
 
         public override int SaveChanges() => this.SaveChanges(true);
 

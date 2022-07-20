@@ -8,7 +8,6 @@
     using Recepti.Data.Models;
     using Recepti.Data.Repositories;
     using Recepti.Data.Seeding;
-    using Recepti.Services.Data;
     using Recepti.Services.Mapping;
     using Recepti.Services.Messaging;
     using Recepti.Web.ViewModels;
@@ -64,7 +63,6 @@
 
             // Application services
             services.AddTransient<IEmailSender, NullMessageSender>();
-            services.AddTransient<ISettingsService, SettingsService>();
         }
 
         private static void Configure(WebApplication app)

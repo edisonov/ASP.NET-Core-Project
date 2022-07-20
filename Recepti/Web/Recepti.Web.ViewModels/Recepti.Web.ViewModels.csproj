@@ -23,4 +23,8 @@
     <ProjectReference Include="..\..\Services\Recepti.Services.Mapping\Recepti.Services.Mapping.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Administration\Dashboard\" />
+  </ItemGroup>
+
 </Project>

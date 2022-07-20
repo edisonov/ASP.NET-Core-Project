@@ -1,16 +1,31 @@
 ﻿namespace Recepti.Web.Controllers
 {
     using System.Diagnostics;
-
-    using Recepti.Web.ViewModels;
-
+    using System.Linq;
     using Microsoft.AspNetCore.Mvc;
+    using Recepti.Data;
+    using Recepti.Web.ViewModels;
+    using Recepti.Web.ViewModels.Home;
 
     public class HomeController : BaseController
     {
+        private readonly ApplicationDbContext db;
+
+        public HomeController(ApplicationDbContext db)
+        {
+            this.db = db;
+        }
+
         public IActionResult Index()
         {
-            return this.View();
+            var viewModel = new IndexViewModel
+            {
+                CategotiesCount = this.db.Categories.Count(),
+                ImagesCount = this.db.Images.Count(),
+                IngredientsCount = this.db.Ingrediens.Count(),
+                RecipesCount = this.db.Recipes.Count(),
+            };
+            return this.View(viewModel);
         }
 
         public IActionResult Privacy()

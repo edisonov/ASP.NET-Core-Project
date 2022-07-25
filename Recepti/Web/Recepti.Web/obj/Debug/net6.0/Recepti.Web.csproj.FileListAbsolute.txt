@@ -584,3 +584,10 @@ C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\obj\D
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\obj\Debug\net6.0\Recepti.Web.pdb
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\obj\Debug\net6.0\Recepti.Web.genruntimeconfig.cache
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\obj\Debug\net6.0\refint\Recepti.Web.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Web\Recepti.Web\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

@@ -19,6 +19,7 @@
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
+    using Recepti.Services.Data;
 
     public class Program
     {
@@ -63,6 +64,9 @@
 
             // Application services
             services.AddTransient<IEmailSender, NullMessageSender>();
+            services.AddTransient<IGetCountService, GetCountService>();
+            services.AddTransient<ICategoriesService, CategoriesService>();
+            services.AddTransient<IRecipesService, RecipesService>();
         }
 
         private static void Configure(WebApplication app)

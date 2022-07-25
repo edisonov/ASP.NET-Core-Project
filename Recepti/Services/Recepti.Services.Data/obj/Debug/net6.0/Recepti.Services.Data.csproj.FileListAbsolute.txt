@@ -17,3 +17,5 @@ C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Serv
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Data\obj\Debug\net6.0\ref\Recepti.Services.Data.dll
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Data\obj\Debug\net6.0\Recepti.Services.Data.pdb
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Data\obj\Debug\net6.0\refint\Recepti.Services.Data.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Data\bin\Debug\net6.0\Recepti.Web.ViewModels.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Data\bin\Debug\net6.0\Recepti.Web.ViewModels.pdb

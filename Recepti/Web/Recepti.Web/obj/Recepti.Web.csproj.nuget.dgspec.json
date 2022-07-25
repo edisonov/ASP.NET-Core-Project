@@ -330,6 +330,9 @@
               },
               "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj": {
                 "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj"
+              },
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj"
               }
             }
           }
@@ -669,6 +672,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
               "suppressParent": "All",

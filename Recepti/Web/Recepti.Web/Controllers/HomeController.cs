@@ -4,27 +4,25 @@
     using System.Linq;
     using Microsoft.AspNetCore.Mvc;
     using Recepti.Data;
+    using Recepti.Data.Common.Repositories;
+    using Recepti.Data.Models;
+    using Recepti.Services.Data;
     using Recepti.Web.ViewModels;
     using Recepti.Web.ViewModels.Home;
 
     public class HomeController : BaseController
     {
-        private readonly ApplicationDbContext db;
+        private readonly IGetCountService countsService;
 
-        public HomeController(ApplicationDbContext db)
+        public HomeController(IGetCountService countsService)
         {
-            this.db = db;
+            this.countsService = countsService;
         }
 
         public IActionResult Index()
         {
-            var viewModel = new IndexViewModel
-            {
-                CategotiesCount = this.db.Categories.Count(),
-                ImagesCount = this.db.Images.Count(),
-                IngredientsCount = this.db.Ingrediens.Count(),
-                RecipesCount = this.db.Recipes.Count(),
-            };
+            var viewModel = this.countsService.GetCount();
+
             return this.View(viewModel);
         }
 

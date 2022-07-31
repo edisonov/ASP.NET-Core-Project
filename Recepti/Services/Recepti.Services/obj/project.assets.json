@@ -65,9 +65,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj",
-      "projectName": "Recepti.Services",
-      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj",
+      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj",
+      "projectName": "Recipe.Services",
+      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj",
       "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
       "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\obj\\",
       "projectStyle": "PackageReference",

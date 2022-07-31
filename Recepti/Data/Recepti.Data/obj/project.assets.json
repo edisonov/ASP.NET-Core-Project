@@ -857,41 +857,41 @@
           }
         }
       },
-      "Recepti.Common/1.0.0": {
+      "Recipe.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Recepti.Common.dll": {}
+          "bin/placeholder/Recipe.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Common.dll": {}
+          "bin/placeholder/Recipe.Common.dll": {}
         }
       },
-      "Recepti.Data.Common/1.0.0": {
+      "Recipe.Data.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.Common.dll": {}
+          "bin/placeholder/Recipe.Data.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.Common.dll": {}
+          "bin/placeholder/Recipe.Data.Common.dll": {}
         }
       },
-      "Recepti.Data.Models/1.0.0": {
+      "Recipe.Data.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
-          "Recepti.Data.Common": "1.0.0"
+          "Recipe.Data.Common": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.Models.dll": {}
+          "bin/placeholder/Recipe.Data.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.Models.dll": {}
+          "bin/placeholder/Recipe.Data.Models.dll": {}
         }
       }
     }
@@ -2563,20 +2563,20 @@
         "version.txt"
       ]
     },
-    "Recepti.Common/1.0.0": {
+    "Recipe.Common/1.0.0": {
       "type": "project",
-      "path": "../../Recepti.Common/Recepti.Common.csproj",
-      "msbuildProject": "../../Recepti.Common/Recepti.Common.csproj"
+      "path": "../../Recepti.Common/Recipe.Common.csproj",
+      "msbuildProject": "../../Recepti.Common/Recipe.Common.csproj"
     },
-    "Recepti.Data.Common/1.0.0": {
+    "Recipe.Data.Common/1.0.0": {
       "type": "project",
-      "path": "../Recepti.Data.Common/Recepti.Data.Common.csproj",
-      "msbuildProject": "../Recepti.Data.Common/Recepti.Data.Common.csproj"
+      "path": "../Recepti.Data.Common/Recipe.Data.Common.csproj",
+      "msbuildProject": "../Recepti.Data.Common/Recipe.Data.Common.csproj"
     },
-    "Recepti.Data.Models/1.0.0": {
+    "Recipe.Data.Models/1.0.0": {
       "type": "project",
-      "path": "../Recepti.Data.Models/Recepti.Data.Models.csproj",
-      "msbuildProject": "../Recepti.Data.Models/Recepti.Data.Models.csproj"
+      "path": "../Recepti.Data.Models/Recipe.Data.Models.csproj",
+      "msbuildProject": "../Recepti.Data.Models/Recipe.Data.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2586,9 +2586,9 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.5",
       "Microsoft.Extensions.Configuration.UserSecrets >= 6.0.1",
-      "Recepti.Common >= 1.0.0",
-      "Recepti.Data.Common >= 1.0.0",
-      "Recepti.Data.Models >= 1.0.0",
+      "Recipe.Common >= 1.0.0",
+      "Recipe.Data.Common >= 1.0.0",
+      "Recipe.Data.Models >= 1.0.0",
       "StyleCop.Analyzers >= 1.2.0-beta.435"
     ]
   },
@@ -2598,9 +2598,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj",
-      "projectName": "Recepti.Data",
-      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj",
+      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj",
+      "projectName": "Recipe.Data",
+      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj",
       "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
       "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -2619,14 +2619,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj"
             },
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj"
             },
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj"
             }
           }
         }

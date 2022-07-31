@@ -5,13 +5,13 @@
     using System.IO;
     using System.Threading.Tasks;
 
-    using Recepti.Data;
-    using Recepti.Data.Common;
-    using Recepti.Data.Common.Repositories;
-    using Recepti.Data.Models;
-    using Recepti.Data.Repositories;
-    using Recepti.Data.Seeding;
-    using Recepti.Services.Messaging;
+    using Recipe.Data;
+    using Recipe.Data.Common;
+    using Recipe.Data.Common.Repositories;
+    using Recipe.Data.Models;
+    using Recipe.Data.Repositories;
+    using Recipe.Data.Seeding;
+    using Recipe.Services.Messaging;
 
     using CommandLine;
 

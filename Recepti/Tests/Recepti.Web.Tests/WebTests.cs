@@ -1,4 +1,4 @@
-﻿namespace Recepti.Web.Tests
+﻿namespace Recipe.Web.Tests
 {
     using System.Net;
     using System.Threading.Tasks;

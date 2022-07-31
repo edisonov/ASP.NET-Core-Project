@@ -1,0 +1,15 @@
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\bin\Debug\net6.0\Recipe.Data.Models.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\bin\Debug\net6.0\Recipe.Data.Models.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\bin\Debug\net6.0\Recipe.Data.Models.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\bin\Debug\net6.0\Recipe.Data.Common.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\bin\Debug\net6.0\Recipe.Data.Common.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.csproj.AssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.csproj.CopyComplete
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\refint\Recipe.Data.Models.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\Recipe.Data.Models.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Data\Recepti.Data.Models\obj\Debug\net6.0\ref\Recipe.Data.Models.dll

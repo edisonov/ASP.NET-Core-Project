@@ -171,9 +171,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj",
-      "projectName": "Recepti.Services.Mapping",
-      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj",
+      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj",
+      "projectName": "Recipe.Services.Mapping",
+      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj",
       "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
       "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\obj\\",
       "projectStyle": "PackageReference",

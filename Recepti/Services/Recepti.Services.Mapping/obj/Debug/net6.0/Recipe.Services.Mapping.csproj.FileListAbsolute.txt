@@ -1,0 +1,12 @@
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\bin\Debug\net6.0\Recipe.Services.Mapping.deps.json
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\bin\Debug\net6.0\Recipe.Services.Mapping.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\bin\Debug\net6.0\Recipe.Services.Mapping.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.csproj.AssemblyReference.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.AssemblyInfoInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.AssemblyInfo.cs
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\refint\Recipe.Services.Mapping.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\Recipe.Services.Mapping.pdb
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Services\Recepti.Services.Mapping\obj\Debug\net6.0\ref\Recipe.Services.Mapping.dll

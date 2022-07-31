@@ -1,4 +1,4 @@
-﻿namespace Recepti.Services.Data
+﻿namespace Recipe.Services.Data
 {
     using System;
     using System.Collections.Generic;
@@ -6,8 +6,8 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    using Recepti.Data.Common.Repositories;
-    using Recepti.Data.Models;
+    using Recipe.Data.Common.Repositories;
+    using Recipe.Data.Models;
 
     public class CategoriesService : ICategoriesService
     {

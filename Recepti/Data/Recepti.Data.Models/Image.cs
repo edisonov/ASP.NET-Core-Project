@@ -1,8 +1,8 @@
-﻿namespace Recepti.Data.Models
+﻿using Recipe.Data.Common.Models;
+
+namespace Recipe.Data.Models
 {
     using System;
-
-    using Recepti.Data.Common.Models;
 
     public class Image : BaseModel<string>
     {

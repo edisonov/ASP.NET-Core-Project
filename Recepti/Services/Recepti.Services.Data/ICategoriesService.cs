@@ -1,4 +1,4 @@
-﻿namespace Recepti.Services.Data
+﻿namespace Recipe.Services.Data
 {
     using System.Collections.Generic;
 

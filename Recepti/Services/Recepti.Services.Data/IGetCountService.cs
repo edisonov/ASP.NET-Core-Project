@@ -1,6 +1,6 @@
-﻿namespace Recepti.Services.Data
+﻿namespace Recipe.Services.Data
 {
-    using Recepti.Web.ViewModels.Home;
+    using Recipe.Web.ViewModels.Home;
 
     public interface IGetCountService
     {

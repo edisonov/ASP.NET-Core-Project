@@ -1,8 +1,8 @@
-﻿namespace Recepti.Web.Controllers
+﻿namespace Recipe.Web.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
-    using Recepti.Services.Data;
-    using Recepti.Web.ViewModels.Recipes;
+    using Recipe.Services.Data;
+    using Recipe.Web.ViewModels.Recipes;
     using System.Threading.Tasks;
 
     public class RecipesController : BaseController

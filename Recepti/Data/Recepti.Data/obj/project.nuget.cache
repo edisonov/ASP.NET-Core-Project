@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jB1qUeqOl8yn7hGzMiOhz7ogNXCFFlVQMhXxOIr5Q/qwvpzj+tLI4Bnd+yh4oT348exvwJZJ8CCodtPUgV5Mig==",
+  "dgSpecHash": "kd+WpCqGpw5374C2IuK50xuKksXGnSHE6So3tYVaszNzQZ7+Zmm9RhIpdZdXGxNygbXJxKz+b3HgMUKMS5HVAQ==",
   "success": true,
-  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj",
+  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\higem\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",

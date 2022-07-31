@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data.Common
+﻿namespace Recipe.Data.Common
 {
     using System;
     using System.Threading.Tasks;

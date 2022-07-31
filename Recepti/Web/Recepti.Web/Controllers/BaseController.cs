@@ -1,4 +1,4 @@
-﻿namespace Recepti.Web.Controllers
+﻿namespace Recipe.Web.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
 

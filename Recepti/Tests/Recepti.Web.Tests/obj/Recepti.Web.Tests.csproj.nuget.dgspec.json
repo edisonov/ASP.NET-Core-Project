@@ -4,12 +4,12 @@
     "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Tests\\Recepti.Web.Tests\\Recepti.Web.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj",
-        "projectName": "Recepti.Data.Common",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj",
+        "projectName": "Recipe.Data.Common",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
@@ -70,12 +70,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj",
-        "projectName": "Recepti.Data.Models",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj",
+        "projectName": "Recipe.Data.Models",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
@@ -94,8 +94,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj"
               }
             }
           }
@@ -140,12 +140,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj",
-        "projectName": "Recepti.Data",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj",
+        "projectName": "Recipe.Data",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -164,14 +164,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj"
               }
             }
           }
@@ -236,12 +236,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj",
-        "projectName": "Recepti.Common",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj",
+        "projectName": "Recipe.Common",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\obj\\",
         "projectStyle": "PackageReference",
@@ -298,12 +298,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj",
-        "projectName": "Recepti.Services.Data",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj",
+        "projectName": "Recipe.Services.Data",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\obj\\",
         "projectStyle": "PackageReference",
@@ -322,17 +322,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj"
               }
             }
           }
@@ -373,12 +373,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj",
-        "projectName": "Recepti.Services.Mapping",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj",
+        "projectName": "Recipe.Services.Mapping",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
@@ -439,12 +439,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recepti.Services.Messaging.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recipe.Services.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recepti.Services.Messaging.csproj",
-        "projectName": "Recepti.Services.Messaging",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recepti.Services.Messaging.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recipe.Services.Messaging.csproj",
+        "projectName": "Recipe.Services.Messaging",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recipe.Services.Messaging.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\obj\\",
         "projectStyle": "PackageReference",
@@ -505,12 +505,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj",
-        "projectName": "Recepti.Services",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj",
+        "projectName": "Recipe.Services",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\obj\\",
         "projectStyle": "PackageReference",
@@ -591,8 +591,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj"
               }
             }
           }
@@ -654,12 +654,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recepti.Web.Infrastructure.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recipe.Web.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recepti.Web.Infrastructure.csproj",
-        "projectName": "Recepti.Web.Infrastructure",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recepti.Web.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recipe.Web.Infrastructure.csproj",
+        "projectName": "Recipe.Web.Infrastructure",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recipe.Web.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -716,12 +716,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj",
-        "projectName": "Recepti.Web.ViewModels",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj",
+        "projectName": "Recipe.Web.ViewModels",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
@@ -740,11 +740,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj"
               }
             }
           }
@@ -789,12 +789,12 @@
         }
       }
     },
-    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj": {
+    "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj",
-        "projectName": "Recepti.Web",
-        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj",
+        "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj",
+        "projectName": "Recipe.Web",
+        "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj",
         "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
         "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\obj\\",
         "projectStyle": "PackageReference",
@@ -813,32 +813,32 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recepti.Data.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data\\Recipe.Data.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recepti.Services.Messaging.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recepti.Services.Messaging.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recipe.Services.Messaging.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Messaging\\Recipe.Services.Messaging.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recepti.Web.Infrastructure.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recepti.Web.Infrastructure.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recipe.Web.Infrastructure.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.Infrastructure\\Recipe.Web.Infrastructure.csproj"
               },
-              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj": {
-                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj"
+              "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj": {
+                "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj"
               }
             }
           }

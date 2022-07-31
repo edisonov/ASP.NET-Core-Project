@@ -169,3 +169,12 @@ C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Service
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\obj\Debug\net6.0\Recepti.Services.Data.Tests.pdb
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\obj\Debug\net6.0\Recepti.Services.Data.Tests.genruntimeconfig.cache
 C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\obj\Debug\net6.0\ref\Recepti.Services.Data.Tests.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\Recepti.Web.ViewModels.dll
+C:\Emo\SoftUni\SoftUni\C# Web\ASP.NET-Core-Project\Recepti\Tests\Recepti.Services.Data.Tests\bin\Debug\net6.0\Recepti.Web.ViewModels.pdb

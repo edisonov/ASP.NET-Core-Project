@@ -368,59 +368,59 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Recepti.Data.Common/1.0.0": {
+      "Recipe.Data.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.Common.dll": {}
+          "bin/placeholder/Recipe.Data.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.Common.dll": {}
+          "bin/placeholder/Recipe.Data.Common.dll": {}
         }
       },
-      "Recepti.Data.Models/1.0.0": {
+      "Recipe.Data.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
-          "Recepti.Data.Common": "1.0.0"
+          "Recipe.Data.Common": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.Models.dll": {}
+          "bin/placeholder/Recipe.Data.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.Models.dll": {}
+          "bin/placeholder/Recipe.Data.Models.dll": {}
         }
       },
-      "Recepti.Services.Mapping/1.0.0": {
+      "Recipe.Services.Mapping/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper": "11.0.1"
         },
         "compile": {
-          "bin/placeholder/Recepti.Services.Mapping.dll": {}
+          "bin/placeholder/Recipe.Services.Mapping.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Services.Mapping.dll": {}
+          "bin/placeholder/Recipe.Services.Mapping.dll": {}
         }
       },
-      "Recepti.Web.ViewModels/1.0.0": {
+      "Recipe.Web.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNet.Mvc": "5.2.9",
-          "Recepti.Data.Models": "1.0.0",
-          "Recepti.Services.Mapping": "1.0.0"
+          "Recipe.Data.Models": "1.0.0",
+          "Recipe.Services.Mapping": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Web.ViewModels.dll": {}
+          "bin/placeholder/Recipe.Web.ViewModels.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Web.ViewModels.dll": {}
+          "bin/placeholder/Recipe.Web.ViewModels.dll": {}
         }
       }
     }
@@ -1152,33 +1152,33 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Recepti.Data.Common/1.0.0": {
+    "Recipe.Data.Common/1.0.0": {
       "type": "project",
-      "path": "../../Data/Recepti.Data.Common/Recepti.Data.Common.csproj",
-      "msbuildProject": "../../Data/Recepti.Data.Common/Recepti.Data.Common.csproj"
+      "path": "../../Data/Recepti.Data.Common/Recipe.Data.Common.csproj",
+      "msbuildProject": "../../Data/Recepti.Data.Common/Recipe.Data.Common.csproj"
     },
-    "Recepti.Data.Models/1.0.0": {
+    "Recipe.Data.Models/1.0.0": {
       "type": "project",
-      "path": "../../Data/Recepti.Data.Models/Recepti.Data.Models.csproj",
-      "msbuildProject": "../../Data/Recepti.Data.Models/Recepti.Data.Models.csproj"
+      "path": "../../Data/Recepti.Data.Models/Recipe.Data.Models.csproj",
+      "msbuildProject": "../../Data/Recepti.Data.Models/Recipe.Data.Models.csproj"
     },
-    "Recepti.Services.Mapping/1.0.0": {
+    "Recipe.Services.Mapping/1.0.0": {
       "type": "project",
-      "path": "../Recepti.Services.Mapping/Recepti.Services.Mapping.csproj",
-      "msbuildProject": "../Recepti.Services.Mapping/Recepti.Services.Mapping.csproj"
+      "path": "../Recepti.Services.Mapping/Recipe.Services.Mapping.csproj",
+      "msbuildProject": "../Recepti.Services.Mapping/Recipe.Services.Mapping.csproj"
     },
-    "Recepti.Web.ViewModels/1.0.0": {
+    "Recipe.Web.ViewModels/1.0.0": {
       "type": "project",
-      "path": "../../Web/Recepti.Web.ViewModels/Recepti.Web.ViewModels.csproj",
-      "msbuildProject": "../../Web/Recepti.Web.ViewModels/Recepti.Web.ViewModels.csproj"
+      "path": "../../Web/Recepti.Web.ViewModels/Recipe.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/Recepti.Web.ViewModels/Recipe.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Recepti.Data.Common >= 1.0.0",
-      "Recepti.Data.Models >= 1.0.0",
-      "Recepti.Services.Mapping >= 1.0.0",
-      "Recepti.Web.ViewModels >= 1.0.0",
+      "Recipe.Data.Common >= 1.0.0",
+      "Recipe.Data.Models >= 1.0.0",
+      "Recipe.Services.Mapping >= 1.0.0",
+      "Recipe.Web.ViewModels >= 1.0.0",
       "StyleCop.Analyzers >= 1.2.0-beta.435"
     ]
   },
@@ -1188,9 +1188,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj",
-      "projectName": "Recepti.Services.Data",
-      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj",
+      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj",
+      "projectName": "Recipe.Services.Data",
+      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj",
       "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
       "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -1209,17 +1209,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recepti.Data.Common.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Common\\Recipe.Data.Common.csproj"
             },
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recepti.Data.Models.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Data\\Recepti.Data.Models\\Recipe.Data.Models.csproj"
             },
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recepti.Services.Mapping.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Mapping\\Recipe.Services.Mapping.csproj"
             },
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj"
             }
           }
         }

@@ -1,11 +1,11 @@
-﻿namespace Recepti.Data.Seeding
+﻿namespace Recipe.Data.Seeding
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
 
-    using Recepti.Common;
-    using Recepti.Data.Models;
+    using Recipe.Common;
+    using Recipe.Data.Models;
 
     using Microsoft.AspNetCore.Identity;
     using Microsoft.Extensions.DependencyInjection;

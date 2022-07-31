@@ -65,9 +65,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj",
-      "projectName": "Recepti.Common",
-      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recepti.Common.csproj",
+      "projectUniqueName": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj",
+      "projectName": "Recipe.Common",
+      "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\Recipe.Common.csproj",
       "packagesPath": "C:\\Users\\higem\\.nuget\\packages\\",
       "outputPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Recepti.Common\\obj\\",
       "projectStyle": "PackageReference",

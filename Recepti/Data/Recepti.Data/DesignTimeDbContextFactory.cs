@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data
+﻿namespace Recipe.Data
 {
     using System.IO;
 

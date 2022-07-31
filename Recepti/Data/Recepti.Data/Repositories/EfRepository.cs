@@ -1,10 +1,10 @@
-﻿namespace Recepti.Data.Repositories
+﻿namespace Recipe.Data.Repositories
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
 
-    using Recepti.Data.Common.Repositories;
+    using Recipe.Data.Common.Repositories;
 
     using Microsoft.EntityFrameworkCore;
 

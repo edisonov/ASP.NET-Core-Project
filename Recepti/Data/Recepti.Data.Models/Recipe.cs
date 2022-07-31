@@ -1,9 +1,9 @@
-﻿namespace Recepti.Data.Models
+﻿using Recipe.Data.Common.Models;
+
+namespace Recipe.Data.Models
 {
     using System;
     using System.Collections.Generic;
-
-    using Recepti.Data.Common.Models;
 
     public class Recipe : BaseDeletableModel<int>
     {

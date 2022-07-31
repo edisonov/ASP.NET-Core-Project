@@ -1,10 +1,10 @@
-﻿namespace Recepti.Services.Data
+﻿namespace Recipe.Services.Data
 {
     using System.Linq;
 
-    using Recepti.Data.Common.Repositories;
-    using Recepti.Data.Models;
-    using Recepti.Web.ViewModels.Home;
+    using Recipe.Data.Common.Repositories;
+    using Recipe.Data.Models;
+    using Recipe.Web.ViewModels.Home;
 
     public class GetCountService : IGetCountService
     {

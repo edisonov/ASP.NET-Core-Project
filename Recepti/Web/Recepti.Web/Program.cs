@@ -1,16 +1,17 @@
-﻿namespace Recepti.Web
+﻿using Recipe.Data;
+using Recipe.Data.Common;
+using Recipe.Data.Common.Repositories;
+using Recipe.Data.Models;
+using Recipe.Data.Repositories;
+using Recipe.Data.Seeding;
+using Recipe.Services.Mapping;
+using Recipe.Services.Messaging;
+
+namespace Recipe.Web
 {
     using System.Reflection;
 
-    using Recepti.Data;
-    using Recepti.Data.Common;
-    using Recepti.Data.Common.Repositories;
-    using Recepti.Data.Models;
-    using Recepti.Data.Repositories;
-    using Recepti.Data.Seeding;
-    using Recepti.Services.Mapping;
-    using Recepti.Services.Messaging;
-    using Recepti.Web.ViewModels;
+    using Recipe.Web.ViewModels;
 
     using Microsoft.AspNetCore.Builder;
     using Microsoft.AspNetCore.Http;
@@ -19,7 +20,7 @@
     using Microsoft.Extensions.Configuration;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.Extensions.Hosting;
-    using Recepti.Services.Data;
+    using Recipe.Services.Data;
 
     public class Program
     {

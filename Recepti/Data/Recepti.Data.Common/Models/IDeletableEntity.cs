@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data.Common.Models
+﻿namespace Recipe.Data.Common.Models
 {
     using System;
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7TCuwgpGzcds7vVOdDtHPpwwzX1yV4vA6SjNl1Hf30uQ93tecDXJuZyTbc2HZ4JjWnBJpgekDVF2PPj7GKmQA==",
+  "dgSpecHash": "g1NuDXw5bCr/6Q7zfcmaousAySPoizZwiqZlOe638DxKDfZ1gdi36jhV25wjzB/2+fWKVYaZMX0YzGdpo53OmA==",
   "success": true,
-  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj",
+  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higem\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\higem\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

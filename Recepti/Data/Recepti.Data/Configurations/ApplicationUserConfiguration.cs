@@ -1,6 +1,6 @@
-﻿namespace Recepti.Data.Configurations
+﻿namespace Recipe.Data.Configurations
 {
-    using Recepti.Data.Models;
+    using Recipe.Data.Models;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

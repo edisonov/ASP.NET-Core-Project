@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "itsw2O6xfFWRMO/ZdaJGIyFS9boAEC10uQh3+CGy3BAnuW0mRhc3OVLfXrdwzIqv98n1pKJrVeHjUb38O9dagg==",
+  "dgSpecHash": "XEzDkmf3YiqYsEd4BicRFH9QIwJzqXFgpTBt3a5GTbAf+WbVGrsEe0Zr+WnIoa/QfzgWh9/t0Kbr67euAi5Uiw==",
   "success": true,
-  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recepti.Web.ViewModels.csproj",
+  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web.ViewModels\\Recipe.Web.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higem\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\higem\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

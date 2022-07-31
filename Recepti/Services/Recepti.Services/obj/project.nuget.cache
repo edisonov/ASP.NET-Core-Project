@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1DBknZhouFitcdN8SxMWwe7hbNKKXL8AHa4dibC8e++bVIVSSCFIPa/gaAFmEk9wfcNPMRL4VZ04py1kGPplw==",
+  "dgSpecHash": "S9j/cwgTn9hrdm9R08RElDnLEOtTiUuKdsEkxf/UOwfcaWyUrAZW7tTG5DefaGqUlvluKYRQ6v/fi6OxWj6nIQ==",
   "success": true,
-  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recepti.Services.csproj",
+  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services\\Recipe.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higem\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
     "C:\\Users\\higem\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"

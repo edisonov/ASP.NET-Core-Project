@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data.Models
+﻿namespace Recipe.Data.Models
 {
     public class RecipeIngredient
     {

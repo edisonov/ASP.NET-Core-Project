@@ -1,9 +1,9 @@
-﻿namespace Recepti.Data
+﻿namespace Recipe.Data
 {
     using System;
     using System.Threading.Tasks;
 
-    using Recepti.Data.Common;
+    using Recipe.Data.Common;
 
     using Microsoft.EntityFrameworkCore;
 

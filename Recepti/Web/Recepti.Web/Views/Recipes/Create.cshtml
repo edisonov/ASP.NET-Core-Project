@@ -1,4 +1,4 @@
-﻿@model Recepti.Web.ViewModels.Recipes.CreateRecipeInputModel
+﻿@model Recipe.Web.ViewModels.Recipes.CreateRecipeInputModel
 @{
     this.ViewData["Title"] = "Add new recipe";
     var categotyItem = this.Model.CategoriesItems.Select(x => new SelectListItem(x.Value, x.Key));

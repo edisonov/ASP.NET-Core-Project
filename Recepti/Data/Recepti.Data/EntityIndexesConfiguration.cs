@@ -1,8 +1,8 @@
-﻿namespace Recepti.Data
+﻿namespace Recipe.Data
 {
     using System.Linq;
 
-    using Recepti.Data.Common.Models;
+    using Recipe.Data.Common.Models;
 
     using Microsoft.EntityFrameworkCore;
 

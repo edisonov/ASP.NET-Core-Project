@@ -1,8 +1,8 @@
-﻿namespace Recepti.Data.Models
+﻿using Recipe.Data.Common.Models;
+
+namespace Recipe.Data.Models
 {
     using System.Collections.Generic;
-
-    using Recepti.Data.Common.Models;
 
     public class Ingredient : BaseDeletableModel<int>
     {

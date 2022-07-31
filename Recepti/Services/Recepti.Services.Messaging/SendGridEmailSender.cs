@@ -1,4 +1,4 @@
-﻿namespace Recepti.Services.Messaging
+﻿namespace Recipe.Services.Messaging
 {
     using System;
     using System.Collections.Generic;

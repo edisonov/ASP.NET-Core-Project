@@ -4064,114 +4064,114 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Recepti.Common/1.0.0": {
+      "Recipe.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Recepti.Common.dll": {}
+          "bin/placeholder/Recipe.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Common.dll": {}
+          "bin/placeholder/Recipe.Common.dll": {}
         }
       },
-      "Recepti.Data/1.0.0": {
+      "Recipe.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5",
           "Microsoft.Extensions.Configuration.UserSecrets": "6.0.1",
-          "Recepti.Common": "1.0.0",
-          "Recepti.Data.Common": "1.0.0",
-          "Recepti.Data.Models": "1.0.0"
+          "Recipe.Common": "1.0.0",
+          "Recipe.Data.Common": "1.0.0",
+          "Recipe.Data.Models": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.dll": {}
+          "bin/placeholder/Recipe.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.dll": {}
+          "bin/placeholder/Recipe.Data.dll": {}
         }
       },
-      "Recepti.Data.Common/1.0.0": {
+      "Recipe.Data.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "System.ComponentModel.Annotations": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.Common.dll": {}
+          "bin/placeholder/Recipe.Data.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.Common.dll": {}
+          "bin/placeholder/Recipe.Data.Common.dll": {}
         }
       },
-      "Recepti.Data.Models/1.0.0": {
+      "Recipe.Data.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.5",
-          "Recepti.Data.Common": "1.0.0"
+          "Recipe.Data.Common": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Data.Models.dll": {}
+          "bin/placeholder/Recipe.Data.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Data.Models.dll": {}
+          "bin/placeholder/Recipe.Data.Models.dll": {}
         }
       },
-      "Recepti.Services/1.0.0": {
+      "Recipe.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Recepti.Services.dll": {}
+          "bin/placeholder/Recipe.Services.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Services.dll": {}
+          "bin/placeholder/Recipe.Services.dll": {}
         }
       },
-      "Recepti.Services.Data/1.0.0": {
+      "Recipe.Services.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Recepti.Data.Common": "1.0.0",
-          "Recepti.Data.Models": "1.0.0",
-          "Recepti.Services.Mapping": "1.0.0",
-          "Recepti.Web.ViewModels": "1.0.0"
+          "Recipe.Data.Common": "1.0.0",
+          "Recipe.Data.Models": "1.0.0",
+          "Recipe.Services.Mapping": "1.0.0",
+          "Recipe.Web.ViewModels": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Services.Data.dll": {}
+          "bin/placeholder/Recipe.Services.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Services.Data.dll": {}
+          "bin/placeholder/Recipe.Services.Data.dll": {}
         }
       },
-      "Recepti.Services.Mapping/1.0.0": {
+      "Recipe.Services.Mapping/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper": "11.0.1"
         },
         "compile": {
-          "bin/placeholder/Recepti.Services.Mapping.dll": {}
+          "bin/placeholder/Recipe.Services.Mapping.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Services.Mapping.dll": {}
+          "bin/placeholder/Recipe.Services.Mapping.dll": {}
         }
       },
-      "Recepti.Services.Messaging/1.0.0": {
+      "Recipe.Services.Messaging/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Sendgrid": "9.28.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Services.Messaging.dll": {}
+          "bin/placeholder/Recipe.Services.Messaging.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Services.Messaging.dll": {}
+          "bin/placeholder/Recipe.Services.Messaging.dll": {}
         }
       },
-      "Recepti.Web/1.0.0": {
+      "Recipe.Web/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -4181,49 +4181,49 @@
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "6.0.5",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.5",
           "Microsoft.Web.LibraryManager.Build": "2.1.161",
-          "Recepti.Common": "1.0.0",
-          "Recepti.Data": "1.0.0",
-          "Recepti.Data.Models": "1.0.0",
-          "Recepti.Services": "1.0.0",
-          "Recepti.Services.Data": "1.0.0",
-          "Recepti.Services.Mapping": "1.0.0",
-          "Recepti.Services.Messaging": "1.0.0",
-          "Recepti.Web.Infrastructure": "1.0.0",
-          "Recepti.Web.ViewModels": "1.0.0"
+          "Recipe.Common": "1.0.0",
+          "Recipe.Data": "1.0.0",
+          "Recipe.Data.Models": "1.0.0",
+          "Recipe.Services": "1.0.0",
+          "Recipe.Services.Data": "1.0.0",
+          "Recipe.Services.Mapping": "1.0.0",
+          "Recipe.Services.Messaging": "1.0.0",
+          "Recipe.Web.Infrastructure": "1.0.0",
+          "Recipe.Web.ViewModels": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Web.dll": {}
+          "bin/placeholder/Recipe.Web.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Web.dll": {}
+          "bin/placeholder/Recipe.Web.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Recepti.Web.Infrastructure/1.0.0": {
+      "Recipe.Web.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Recepti.Web.Infrastructure.dll": {}
+          "bin/placeholder/Recipe.Web.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Web.Infrastructure.dll": {}
+          "bin/placeholder/Recipe.Web.Infrastructure.dll": {}
         }
       },
-      "Recepti.Web.ViewModels/1.0.0": {
+      "Recipe.Web.ViewModels/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.AspNet.Mvc": "5.2.9",
-          "Recepti.Data.Models": "1.0.0",
-          "Recepti.Services.Mapping": "1.0.0"
+          "Recipe.Data.Models": "1.0.0",
+          "Recipe.Services.Mapping": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Recepti.Web.ViewModels.dll": {}
+          "bin/placeholder/Recipe.Web.ViewModels.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Recepti.Web.ViewModels.dll": {}
+          "bin/placeholder/Recipe.Web.ViewModels.dll": {}
         }
       }
     }
@@ -12492,67 +12492,67 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Recepti.Common/1.0.0": {
+    "Recipe.Common/1.0.0": {
       "type": "project",
-      "path": "../../Recepti.Common/Recepti.Common.csproj",
-      "msbuildProject": "../../Recepti.Common/Recepti.Common.csproj"
+      "path": "../../Recepti.Common/Recipe.Common.csproj",
+      "msbuildProject": "../../Recepti.Common/Recipe.Common.csproj"
     },
-    "Recepti.Data/1.0.0": {
+    "Recipe.Data/1.0.0": {
       "type": "project",
-      "path": "../../Data/Recepti.Data/Recepti.Data.csproj",
-      "msbuildProject": "../../Data/Recepti.Data/Recepti.Data.csproj"
+      "path": "../../Data/Recepti.Data/Recipe.Data.csproj",
+      "msbuildProject": "../../Data/Recepti.Data/Recipe.Data.csproj"
     },
-    "Recepti.Data.Common/1.0.0": {
+    "Recipe.Data.Common/1.0.0": {
       "type": "project",
-      "path": "../../Data/Recepti.Data.Common/Recepti.Data.Common.csproj",
-      "msbuildProject": "../../Data/Recepti.Data.Common/Recepti.Data.Common.csproj"
+      "path": "../../Data/Recepti.Data.Common/Recipe.Data.Common.csproj",
+      "msbuildProject": "../../Data/Recepti.Data.Common/Recipe.Data.Common.csproj"
     },
-    "Recepti.Data.Models/1.0.0": {
+    "Recipe.Data.Models/1.0.0": {
       "type": "project",
-      "path": "../../Data/Recepti.Data.Models/Recepti.Data.Models.csproj",
-      "msbuildProject": "../../Data/Recepti.Data.Models/Recepti.Data.Models.csproj"
+      "path": "../../Data/Recepti.Data.Models/Recipe.Data.Models.csproj",
+      "msbuildProject": "../../Data/Recepti.Data.Models/Recipe.Data.Models.csproj"
     },
-    "Recepti.Services/1.0.0": {
+    "Recipe.Services/1.0.0": {
       "type": "project",
-      "path": "../../Services/Recepti.Services/Recepti.Services.csproj",
-      "msbuildProject": "../../Services/Recepti.Services/Recepti.Services.csproj"
+      "path": "../../Services/Recepti.Services/Recipe.Services.csproj",
+      "msbuildProject": "../../Services/Recepti.Services/Recipe.Services.csproj"
     },
-    "Recepti.Services.Data/1.0.0": {
+    "Recipe.Services.Data/1.0.0": {
       "type": "project",
-      "path": "../../Services/Recepti.Services.Data/Recepti.Services.Data.csproj",
-      "msbuildProject": "../../Services/Recepti.Services.Data/Recepti.Services.Data.csproj"
+      "path": "../../Services/Recepti.Services.Data/Recipe.Services.Data.csproj",
+      "msbuildProject": "../../Services/Recepti.Services.Data/Recipe.Services.Data.csproj"
     },
-    "Recepti.Services.Mapping/1.0.0": {
+    "Recipe.Services.Mapping/1.0.0": {
       "type": "project",
-      "path": "../../Services/Recepti.Services.Mapping/Recepti.Services.Mapping.csproj",
-      "msbuildProject": "../../Services/Recepti.Services.Mapping/Recepti.Services.Mapping.csproj"
+      "path": "../../Services/Recepti.Services.Mapping/Recipe.Services.Mapping.csproj",
+      "msbuildProject": "../../Services/Recepti.Services.Mapping/Recipe.Services.Mapping.csproj"
     },
-    "Recepti.Services.Messaging/1.0.0": {
+    "Recipe.Services.Messaging/1.0.0": {
       "type": "project",
-      "path": "../../Services/Recepti.Services.Messaging/Recepti.Services.Messaging.csproj",
-      "msbuildProject": "../../Services/Recepti.Services.Messaging/Recepti.Services.Messaging.csproj"
+      "path": "../../Services/Recepti.Services.Messaging/Recipe.Services.Messaging.csproj",
+      "msbuildProject": "../../Services/Recepti.Services.Messaging/Recipe.Services.Messaging.csproj"
     },
-    "Recepti.Web/1.0.0": {
+    "Recipe.Web/1.0.0": {
       "type": "project",
-      "path": "../../Web/Recepti.Web/Recepti.Web.csproj",
-      "msbuildProject": "../../Web/Recepti.Web/Recepti.Web.csproj"
+      "path": "../../Web/Recepti.Web/Recipe.Web.csproj",
+      "msbuildProject": "../../Web/Recepti.Web/Recipe.Web.csproj"
     },
-    "Recepti.Web.Infrastructure/1.0.0": {
+    "Recipe.Web.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../../Web/Recepti.Web.Infrastructure/Recepti.Web.Infrastructure.csproj",
-      "msbuildProject": "../../Web/Recepti.Web.Infrastructure/Recepti.Web.Infrastructure.csproj"
+      "path": "../../Web/Recepti.Web.Infrastructure/Recipe.Web.Infrastructure.csproj",
+      "msbuildProject": "../../Web/Recepti.Web.Infrastructure/Recipe.Web.Infrastructure.csproj"
     },
-    "Recepti.Web.ViewModels/1.0.0": {
+    "Recipe.Web.ViewModels/1.0.0": {
       "type": "project",
-      "path": "../../Web/Recepti.Web.ViewModels/Recepti.Web.ViewModels.csproj",
-      "msbuildProject": "../../Web/Recepti.Web.ViewModels/Recepti.Web.ViewModels.csproj"
+      "path": "../../Web/Recepti.Web.ViewModels/Recipe.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/Recepti.Web.ViewModels/Recipe.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Mvc.Testing >= 6.0.5",
       "Microsoft.NET.Test.Sdk >= 17.2.0",
-      "Recepti.Web >= 1.0.0",
+      "Recipe.Web >= 1.0.0",
       "StyleCop.Analyzers >= 1.2.0-beta.435",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -12585,8 +12585,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj": {
-              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recepti.Web.csproj"
+            "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj": {
+              "projectPath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Web\\Recepti.Web\\Recipe.Web.csproj"
             }
           }
         }

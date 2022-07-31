@@ -1,8 +1,8 @@
-﻿namespace Recepti.Data.Common.Repositories
+﻿namespace Recipe.Data.Common.Repositories
 {
     using System.Linq;
 
-    using Recepti.Data.Common.Models;
+    using Recipe.Data.Common.Models;
 
     public interface IDeletableEntityRepository<TEntity> : IRepository<TEntity>
         where TEntity : class, IDeletableEntity

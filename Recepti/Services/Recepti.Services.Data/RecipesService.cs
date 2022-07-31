@@ -1,4 +1,4 @@
-﻿namespace Recepti.Services.Data
+﻿namespace Recipe.Services.Data
 {
     using System;
     using System.Collections.Generic;
@@ -6,9 +6,9 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    using Recepti.Data.Common.Repositories;
-    using Recepti.Data.Models;
-    using Recepti.Web.ViewModels.Recipes;
+    using Recipe.Data.Common.Repositories;
+    using Recipe.Data.Models;
+    using Recipe.Web.ViewModels.Recipes;
 
     public class RecipesService : IRecipesService
     {

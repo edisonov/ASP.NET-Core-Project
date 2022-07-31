@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data.Common.Repositories
+﻿namespace Recipe.Data.Common.Repositories
 {
     using System;
     using System.Linq;

@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Web\Recepti.Web\Recepti.Web.csproj" />
+    <ProjectReference Include="..\..\Web\Recepti.Web\Recipe.Web.csproj" />
   </ItemGroup>
 
 </Project>

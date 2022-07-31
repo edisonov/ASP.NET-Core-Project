@@ -1,4 +1,4 @@
-﻿namespace Recepti.Services.Mapping
+﻿namespace Recipe.Services.Mapping
 {
     using AutoMapper;
 

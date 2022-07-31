@@ -1,4 +1,4 @@
-﻿namespace Recepti.Web.ViewModels.Home
+﻿namespace Recipe.Web.ViewModels.Home
 {
     public class IndexViewModel
     {

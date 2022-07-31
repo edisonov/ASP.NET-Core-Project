@@ -1,14 +1,14 @@
-﻿namespace Recepti.Web.Controllers
+﻿namespace Recipe.Web.Controllers
 {
     using System.Diagnostics;
     using System.Linq;
     using Microsoft.AspNetCore.Mvc;
-    using Recepti.Data;
-    using Recepti.Data.Common.Repositories;
-    using Recepti.Data.Models;
-    using Recepti.Services.Data;
-    using Recepti.Web.ViewModels;
-    using Recepti.Web.ViewModels.Home;
+    using Recipe.Data;
+    using Recipe.Data.Common.Repositories;
+    using Recipe.Data.Models;
+    using Recipe.Services.Data;
+    using Recipe.Web.ViewModels;
+    using Recipe.Web.ViewModels.Home;
 
     public class HomeController : BaseController
     {

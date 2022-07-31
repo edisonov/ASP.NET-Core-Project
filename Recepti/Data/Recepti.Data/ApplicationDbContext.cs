@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data
+﻿namespace Recipe.Data
 {
     using System;
     using System.Linq;
@@ -6,8 +6,8 @@
     using System.Threading;
     using System.Threading.Tasks;
 
-    using Recepti.Data.Common.Models;
-    using Recepti.Data.Models;
+    using Recipe.Data.Common.Models;
+    using Recipe.Data.Models;
 
     using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore;

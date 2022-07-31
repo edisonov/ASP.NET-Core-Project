@@ -33,14 +33,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Recepti.Common\Recepti.Common.csproj" />
-    <ProjectReference Include="..\..\Data\Recepti.Data.Common\Recepti.Data.Common.csproj" />
-    <ProjectReference Include="..\..\Data\Recepti.Data.Models\Recepti.Data.Models.csproj" />
-    <ProjectReference Include="..\..\Data\Recepti.Data\Recepti.Data.csproj" />
-    <ProjectReference Include="..\..\Services\Recepti.Services.Data\Recepti.Services.Data.csproj" />
-    <ProjectReference Include="..\..\Services\Recepti.Services.Mapping\Recepti.Services.Mapping.csproj" />
-    <ProjectReference Include="..\..\Services\Recepti.Services.Messaging\Recepti.Services.Messaging.csproj" />
-    <ProjectReference Include="..\..\Services\Recepti.Services\Recepti.Services.csproj" />
+    <ProjectReference Include="..\..\Recepti.Common\Recipe.Common.csproj" />
+    <ProjectReference Include="..\..\Data\Recepti.Data.Common\Recipe.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Data\Recepti.Data.Models\Recipe.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\Recepti.Data\Recipe.Data.csproj" />
+    <ProjectReference Include="..\..\Services\Recepti.Services.Data\Recipe.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Services\Recepti.Services.Mapping\Recipe.Services.Mapping.csproj" />
+    <ProjectReference Include="..\..\Services\Recepti.Services.Messaging\Recipe.Services.Messaging.csproj" />
+    <ProjectReference Include="..\..\Services\Recepti.Services\Recipe.Services.csproj" />
   </ItemGroup>
 
 </Project>

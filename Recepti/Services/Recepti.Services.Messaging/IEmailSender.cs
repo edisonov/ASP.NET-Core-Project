@@ -1,4 +1,4 @@
-﻿namespace Recepti.Services.Messaging
+﻿namespace Recipe.Services.Messaging
 {
     using System.Collections.Generic;
     using System.Threading.Tasks;

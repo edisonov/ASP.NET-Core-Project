@@ -1,4 +1,4 @@
-﻿namespace Recepti.Data.Seeding
+﻿namespace Recipe.Data.Seeding
 {
     using System;
     using System.Threading.Tasks;

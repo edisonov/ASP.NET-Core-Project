@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JlbyGPCVluay2kiKvX2/Fq4w5ZbBiJhTT5J+Umd1Ko0mwj4psJGFvTLVxVKJARFY4dSUOqdAogR/v0qWP1Xsgw==",
+  "dgSpecHash": "cHVyUq3R+KTQ0pOclR1WQcBlMoiiZpS68w05z1601/Bev8CesslW5w86h9kUFUohfGBbivhpxEPeJJFSSYE/1A==",
   "success": true,
-  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recepti.Services.Data.csproj",
+  "projectFilePath": "C:\\Emo\\SoftUni\\SoftUni\\C# Web\\ASP.NET-Core-Project\\Recepti\\Services\\Recepti.Services.Data\\Recipe.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\higem\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\higem\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",

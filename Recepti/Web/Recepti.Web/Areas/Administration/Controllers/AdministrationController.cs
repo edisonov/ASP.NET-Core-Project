@@ -1,7 +1,7 @@
-﻿namespace Recepti.Web.Areas.Administration.Controllers
+﻿namespace Recipe.Web.Areas.Administration.Controllers
 {
-    using Recepti.Common;
-    using Recepti.Web.Controllers;
+    using Recipe.Common;
+    using Recipe.Web.Controllers;
 
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;

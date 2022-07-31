@@ -1,4 +1,4 @@
-﻿namespace Recepti.Web.ViewModels.Recipes
+﻿namespace Recipe.Web.ViewModels.Recipes
 {
     using System;
     using System.Collections.Generic;

@@ -1,11 +1,11 @@
-﻿using Recepti.Data.Models;
+﻿using Recipe.Data.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Recepti.Data.Seeding
+namespace Recipe.Data.Seeding
 {
     public class CategoriesSeeder : ISeeder
     {
